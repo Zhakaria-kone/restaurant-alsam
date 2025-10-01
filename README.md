@@ -2,7 +2,7 @@
 
 A streamlined web application for managing hotel seminar attendees, focusing on efficient breakfast service tracking and reporting.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Zhakaria-kone/restaurant-alsam)
 
 ## About The Project
 
@@ -88,4 +88,4 @@ This application is designed for seamless deployment to the Cloudflare network.
 
 Or deploy directly with the button below:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Zhakaria-kone/restaurant-alsam)
